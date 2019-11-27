@@ -9,7 +9,7 @@ Your stakeholders have requested some enhancements to their software solution 'G
 
 ### Exercise Deliverables
 * Produce a Functional Requirements Brief document in regards to the new feature(s) requested
-* Add the code to return a random good vibes message from a hardcoded list of messages in views.py and render it in the template ```msg_of_the_day.html```
+* Add the code to return a random good vibes message from a hardcoded list of messages in views.py and render it in the template ```mod.html```
 * Create a test case that tests that your route to the message of the day page is valid and returns a web page
 
 #### Challenge:
